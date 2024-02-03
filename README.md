@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>sotanic_site</title>
-    <link rel='stylesheet' href='sotanic_site_style.css' type='text/css'>
+    <link rel='stylesheet' href='sota005_site_style.css' type='text/css'>
   </head>
   <body> 
     <h1>sota005がgithubで作ったサイトを掲載しているサイトです</h1>
