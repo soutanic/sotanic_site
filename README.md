@@ -11,5 +11,7 @@
     <a href="https://soutanic.github.io/sotanic.github.io/">sota005研究所</a>
     <br>
     <a href="https://soutanic.github.io/sopotify/">mp3プレーヤー</a>
+    <br>
+    <a href="https://soutanic.github.io/Vigenere/">ヴィジュネル暗号化プログラム</a>
   </body>
  </html>
