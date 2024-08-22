@@ -13,5 +13,7 @@
     <a href="https://soutanic.github.io/sopotify/">mp3プレーヤー</a>
     <br>
     <a href="https://soutanic.github.io/Vigenere/">ヴィジュネル暗号化プログラム</a>
+    <br>
+    <a href="https://soutanic.github.io/calculation/">暗算練習</a>
   </body>
  </html>
